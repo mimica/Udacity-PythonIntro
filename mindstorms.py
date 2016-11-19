@@ -10,7 +10,7 @@ def draw_square():
 	toto.shape("turtle")
 	toto.shapesize(3, 3, 3)
 	toto.color("blue")
-	toto.speed(3)
+	toto.speed(1)
 	toto.forward(100)
 	toto.right(90)
 	toto.forward(100)
